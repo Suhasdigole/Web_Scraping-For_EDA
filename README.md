@@ -8,4 +8,7 @@ Reading: For HTML page read and upload
 Parsing: For beautifying the HTML code in an understandable format
 Extraction: For extraction of data from the web page
 Transformation: For converting the information into the required format, e.g., CSV
+
+Now the data converted/ extracted can be further used for any type of analysis.
+
 Thank you !!!!
